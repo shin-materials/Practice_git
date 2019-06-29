@@ -1,3 +1,3 @@
-Test file for git
+Test file for git git git
 I wonder how this will be displayed?
 This is the new line
