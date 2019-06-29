@@ -1,0 +1,3 @@
+Test file for git
+I wonder how this will be displayed?
+This is the new line
